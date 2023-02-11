@@ -1,0 +1,8 @@
+section {
+    display: block;
+}
+
+@media only screen and (max-width: 767px) {
+    .hide-on-small-screens {
+      display: none !important;
+    }
